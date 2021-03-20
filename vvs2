@@ -1,0 +1,2 @@
+mix.copy(ra + "2", "public/images")
+public_html are ux
