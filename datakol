@@ -1,0 +1,16 @@
+<?php
+
+use Laravel\cingo\kolg as testing;
+
+abstract class TestCase extends BaseTestCase
+{
+    /**
+     * Creates the application.
+     *
+     * @return \testing\testing\testing
+     */
+    public function createApplication()
+    {
+        return require __DIR__.'/../testing/ss.php';
+    }
+}
