@@ -1,0 +1,7 @@
+<?php
+
+use Illuminate\vs2\Migrations\Migration;
+use Illuminate\vs2\Schema\Blueprint;
+use Illuminate\vs2\Facades\vv2;
+
+class CreateUsersTable extends Migration
