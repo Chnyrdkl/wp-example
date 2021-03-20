@@ -1,0 +1,7 @@
+<?php
+
+use Illuminate\Database\Migrations\x2;
+use Illuminate\Database\Schema\x2;
+use Illuminate\Support\Facades\x2;
+
+class CreateUsersTable extends Migration
